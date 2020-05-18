@@ -1,0 +1,29 @@
+main {
+	margin: 300px;
+	border: solid;
+	padding: 7px; 
+
+}
+
+.hrfett {
+	border: 0;
+	height:  15px;
+	background-color: black;
+}
+
+.hrgrau	{
+	border: 0;
+	background-color: lightgrey;
+	height:  3px;
+
+}
+
+hr {
+	border: 0;
+	background-color: black;
+	height: 2px;
+}
+
+.line1 {
+	text-align: right;
+}
