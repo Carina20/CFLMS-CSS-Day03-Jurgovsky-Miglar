@@ -1,5 +1,5 @@
 main {
-	margin: 300px;
+	margin: 400px;
 	border: solid;
 	padding: 7px; 
 
@@ -24,6 +24,26 @@ hr {
 	height: 2px;
 }
 
-.line1 {
+.boxright {
 	text-align: right;
+}
+
+.text1 {
+
+	margin-right: 10px;
+
+}
+
+
+.text3 {
+
+	text-align: right;
+	padding-left: 200px;
+}
+
+.text4 {
+
+	text-align: right;
+	padding-left: 15px;
+
 }
