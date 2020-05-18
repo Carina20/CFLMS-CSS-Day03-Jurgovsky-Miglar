@@ -1,0 +1,17 @@
+header {
+	padding-left:200px;
+}
+
+main {
+	padding-left:170px;
+}
+main > a {
+	padding-left:200px;
+	text-decoration:;
+	transition-property: height;
+  transition-duration: 4s;
+  transition-timing-function: ease-in;
+  transition-delay: 2s;
+  transition: width 2s;
+  transition: height 4s ease-in 2s ;
+}
