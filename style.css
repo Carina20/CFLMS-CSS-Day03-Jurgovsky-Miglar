@@ -14,11 +14,11 @@ div {
  }
 
  div:hover {
-  background: lightsalmon;
+  	background: lightsalmon;
  	text-align: center;
-  height: 100px;
+  	height: 100px;
 }
 
 .link:hover {
-  	transition-timing-function: ease-in;
+  	color: red;
 }
